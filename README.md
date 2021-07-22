@@ -32,5 +32,5 @@ Precisar, pode contar comigo!
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badget&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-nuccitelli-46b68017b/" /></a> .  <a href="#" alt="Whatsapp">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badget&logo=whatsapp&logoColor=white&link=https://wa.me/5519974071215/?text=Olá%20te%20encontrei%20no%20Github%20tudo%20à%20bem?" /></a>
 
-[![card](https://github-readme-stats.vercel.app/api?username=A-Nuccitelli&theme=default)](https://github.com/A-Nuccitelli/) [![A-Nuccitelli](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Nuccitelli&hide=html&layout=compact=true&theme=default)](https://github.com/A-Nuccitelli/)
+[![card](https://github-readme-stats.vercel.app/api?username=A-Nuccitelli&theme=Cobalt)](https://github.com/A-Nuccitelli/) [![A-Nuccitelli](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Nuccitelli&hide=html&layout=compact=true&theme=Cobalt)](https://github.com/A-Nuccitelli/)
 
