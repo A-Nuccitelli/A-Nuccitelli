@@ -22,7 +22,7 @@ Precisar, pode contar comigo!
  Ferramentas: <strong>Iniciando VSC, PORTUGOL e Android Studio.</strong> 
 </p>
 <p align="left">
-    </p>( Fora do DEV: <strong>Autocad, Corel Draw, Photoshop, Sketchup e Solid </strong>)
+    </p>( Outros: <strong>Autocad, Corel Draw, Photoshop, Sketchup, Solid, UNITY e UPBGE </strong>)
 
 </p>
 
