@@ -8,7 +8,7 @@
     Seja bem vindo ao meu Github A-Nuccitelli.
 </h6>
 
-Na vida, ja tive a oportunidade de "inputar" 28 ciclos, me especializei no segmento de automação industrial e gerenciamento, e como entusiasta de desenvolvimento, venho desbravar junto a voces esse mundo DEV!.
+Na vida, ja tive a oportunidade de "inputar" 30 ciclos, me especializei no segmento de automação industrial e gerenciamento, e como entusiasta de desenvolvimento, venho desbravar junto a voces esse mundo DEV!.
 
 Precisar, pode contar comigo!
 
